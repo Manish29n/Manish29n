@@ -1,7 +1,7 @@
-<img align="center" width="1000px" height="300px" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
 <h1 align="center">Manish N</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish29n&label=Profile%20views&color=0e75b6&style=flat" alt="manish29n" /> </p>
-
+<img align="right"  width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manish-n-1b4a91204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-n-1b4a91204" height="30" width="40" /></a>

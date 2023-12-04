@@ -1,4 +1,4 @@
-![image](https://github.com/Manish29n/Manish29n/assets/74349872/e316f22f-17ca-4dd9-a9cf-3059fe57990b)![image](https://github.com/Manish29n/Manish29n/assets/74349872/17e52462-1548-4167-af13-5525c423cc72)[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://webvishal.io)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://webvishal.io)
 <h1 align="center">Manish N</h1>
 <img align="right"  width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish29n&label=Profile%20views&color=0e75b6&style=flat" alt="manish29n" /> </p>

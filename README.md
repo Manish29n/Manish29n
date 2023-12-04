@@ -1,14 +1,15 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://webvishal.io)
+![image](https://github.com/Manish29n/Manish29n/assets/74349872/e316f22f-17ca-4dd9-a9cf-3059fe57990b)![image](https://github.com/Manish29n/Manish29n/assets/74349872/17e52462-1548-4167-af13-5525c423cc72)[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://webvishal.io)
 <h1 align="center">Manish N</h1>
 <img align="right"  width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish29n&label=Profile%20views&color=0e75b6&style=flat" alt="manish29n" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manish-n-1b4a91204" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="manish-n-1b4a91204" height="30" width="40" /></a>
-<a href="https://fb.com/manish.n.1614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manish.n.1614" height="30" width="40" /></a>
-<a href="https://instagram.com/manish29n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish29n" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/manish29n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manish29n" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manish29na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish29n" height="30" width="40" /></a>
+<a href="https://fb.com/manish.n.1614" target="blank"><img align="center" src="https://www.svgrepo.com/show/489934/facebook.svg" alt="manish.n.1614" height="30" width="40" /></a>
+<a href="https://instagram.com/manish29n" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="manish29n" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/manish29n" target="blank"><img align="center" src="https://www.svgrepo.com/show/305880/codechef.svg" alt="manish29n" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/manish29na" target="blank"><img align="center" src="https://www.svgrepo.com/show/330828/leetcode.svg" alt="manish29n" height="30" width="40" /></a>
+<a href="https://hackerrank.com/profile/manish29na" target="blank"><img align="center" src="https://www.svgrepo.com/show/330599/hackerrank.svg" alt="manish29na" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

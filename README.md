@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish29n&label=Profile%20views&color=0e75b6&style=flat" alt="manish29n" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manish-n-1b4a91204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-n-1b4a91204" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manish-n-1b4a91204" target="blank"><img align="center" src="![image](https://github.com/Manish29n/Manish29n/assets/74349872/e9557c8c-8aca-4a5a-b290-d926e8bbef36)" alt="manish-n-1b4a91204" height="30" width="40" /></a>
 <a href="https://fb.com/manish.n.1614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manish.n.1614" height="30" width="40" /></a>
 <a href="https://instagram.com/manish29n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish29n" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/manish29n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manish29n" height="30" width="40" /></a>
